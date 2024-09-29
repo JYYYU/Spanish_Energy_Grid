@@ -1,3 +1,5 @@
+# PROJECT OVERIEW:
+
 Accurate forecasting of energy demand is crucial, especially as we shift toward renewable energy in a market increasingly influenced by energy trading. Unlike traditional power sources, renewables like solar and wind are intermittent, meaning they don’t produce energy consistently throughout the day. Without a clear forecast of when and how much energy will be needed, utilities can't plan for periods when these clean sources fall short, forcing them to buy or sell energy at unfavorable prices. In energy trading, where prices fluctuate minute by minute, precise demand forecasts can determine the difference between profit and loss, enabling traders to optimize when to buy or sell electricity, hedge risks, and manage costs effectively. As energy markets become more complex with the addition of carbon credits, battery storage, and decentralized grids, mastering demand forecasting is essential for staying competitive and profitable.
 
 In this project, I walk through how I preprocessed the data, performed feature engineering, and applied three different deep neural network models to forecast electricity demand.
